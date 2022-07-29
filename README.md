@@ -1,4 +1,5 @@
 # size - calculates variable's memory consumption at runtime
+Forked from https://github.com/DmitriyVTitov/size
 
 ### Part of the [Transflow Project](http://transflow.ru/)
 
